@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"roles","l":"Admin"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"control","l":"Controller"},{"p":"control","l":"ControllerTest"},{"p":"courses","l":"Course"},{"p":"files","l":"FileInfoReader"},{"p":"roles","l":"Professor"},{"p":"roles","l":"Student"},{"p":"roles","l":"User"},{"p":"roles","l":"UserTest"}];updateSearchResults();
